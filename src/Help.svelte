@@ -2,7 +2,7 @@
 	<summary>What is a HyperFlake?</summary>
 	<p>
 		A <a
-			href="https://npmjs.com/packages/hyperflake"
+			href="https://npmjs.com/package/hyperflake"
 			rel="external"
 			target="_blank">HyperFlake</a
 		> is a unique ID for a resource that contains a timestamp.
